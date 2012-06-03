@@ -1,0 +1,2 @@
+Simple Lambda Calculus Parser and Evaluator in Java.
+Greatly influenced by @dvanhorn's gist: https://gist.github.com/1321466
